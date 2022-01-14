@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=NohHaYoon&fontSize=90&fontColor=FFFFFF)
+
+<div align=center>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frohhy1120&count_bg=%23272727&title_bg=%23818181&icon=reverbnation.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 
 <div align=center><h1>🌱 TECHNOLOGY STACKS 🌱</h1></div>
 <div align=center> 
